@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!---
+    Copyright (c) 2017 Smartisan Technologies, Inc.
+    All Rights Reserved.
+    Confidential and Proprietary - Smartisan Technologies, Inc.
+ -->
+<permissions>
+    <library name="vendor.smartisan.hardware.factorytest-V1.0"
+          file="/vendor/framework/vendor.smartisan.hardware.factorytest-V1.0-java.jar"/>
+</permissions>

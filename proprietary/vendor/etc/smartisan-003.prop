@@ -1,0 +1,9 @@
+ro.product.model=DE106
+#ro.version_id=special
+ro.product.manufacturer=smartisan
+ro.product.brand=SMARTISAN
+ro.product.name=trident
+ro.product.device=trident
+ro.build.product=trident
+ro.product.codename=Smartisan R1
+ro.product.board=sdm845

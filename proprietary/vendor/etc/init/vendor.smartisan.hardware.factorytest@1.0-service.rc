@@ -1,0 +1,8 @@
+# Copyright (c) 2017 Smartisan Technologies, Inc.
+# All Rights Reserved.
+# Confidential and Proprietary - Smartisan Technologies, Inc.
+#
+service factorytest-hal-1-0 /vendor/bin/hw/vendor.smartisan.hardware.factorytest@1.0-service
+    class hal
+    user factory
+    group factory system
